@@ -60,22 +60,10 @@ Avaliação da representatividade de cada produto dentro das redes varejistas.
 
 ## Estrutura do Projeto
 
-
-```
-powerbi-sales-analytics/
-|
-|-- pbix/
-|   |-- Dashboard_Vendas_Distribuicao.pbix
-|
-|-- dados/
-|   |-- Base_Vendas_Ficticia.xlsx
-|
-|-- imagens/
-|   |-- dashboard_principal.png
-|
-|-- README.md
-```
-
+Dashboard_Vendas_Distribuicao.pbix
+Base_Vendas_Ficticia.xlsx
+dashboard_principal.png
+README.md
 
 ## Observação
 
